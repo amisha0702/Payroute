@@ -1,0 +1,214 @@
+ /* Style the links inside the navigation bar */
+ .topnav {
+  overflow: hidden;
+ }
+  .topnav a {
+    float: center;
+    display: inline;
+    text-align: center;
+    
+    text-decoration: none;
+    font-size: 15px;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 7px;
+    text-decoration: none;
+    margin: 10px;
+  }
+  .topnav .icon {
+    display: none;
+  }
+  #imglogo
+  {
+      float: left;
+      height:50px;
+      width:90px;
+      margin-left: 200px;
+  }
+/* images*/
+  #img1{
+  display: inline;
+  height: 200px;
+  width:200px;
+  margin-top: 96px;
+  }
+
+.shopping
+{
+  background-color:rgb(40, 176, 230);
+}
+/* Payroyte for business */
+.bluesection
+{
+  background-color:rgb(14, 14, 75);height:100px;width:100%;margin-top: -20px;
+}
+#businessbtn
+{
+ margin-left:45%;background-color: white; color: blue;border: 2px solid blue;
+}
+   
+#businesspara
+{
+  text-align: center;color: blue;
+}
+.businesshead
+{
+  text-align: center;color: blue;
+}
+/* Shopping Mall */
+.sectionshopping
+{
+  height:250px;width:100%;
+}
+.sectionshoppingimg
+{
+  float:right;margin-top: -15%;
+}
+.btnlogin
+    {
+      border-radius: 12px;
+      float:center;
+        margin-left: 50px;
+       background-color: white;
+       color: blue;
+      border: 2px solid blue;
+      
+      
+    }
+    .btnsignup
+    {
+      border-radius: 12px;
+      float:center;
+      margin-left: 10px;
+
+      background-color: blue;
+    }
+    .button3 {float:center;border-radius: 13px;height:30px;width:180px; }
+   
+      /* footer */
+  .footer {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .footer-div-1 {
+    width: 100%;
+  }
+  .footer-div-2 {
+    width: 100%;
+  }
+  .footer-div-3 {
+    width: 100%;
+  }
+  .footer-li {
+    list-style: none;
+    display: inline;
+    margin-left: 3vh;
+  }
+  .footer-li-a {
+    text-decoration: none;
+    font-weight: bold;
+    font-family: verdana;
+    font-size: 0.8em;
+    color: black;
+  }
+  .footer2-li-a {
+    text-decoration: none;
+    color: grey;
+    font-weight: bold;
+    font-family: verdana;
+    font-size: 0.8em;
+  }
+  
+  .footer3-li-a {
+    font-weight: bold;
+    text-decoration: none;
+    color: grey;
+    font-family: verdana;
+    font-size: 0.8em;
+  }
+  .footer-p1 {
+    margin-left: 9vh;
+    color: grey;
+  }
+  .footer-p2 {
+    margin-left: 9vh;
+    color: grey;
+  }
+   /* overlapping div */
+   .video_p {
+    position: absolute;
+    z-index: 1;
+  }
+  .video-section {
+    position: relative;
+  }
+  .video-para {
+    margin-top: 20vh;
+    font-family: verdana;
+    font-weight: lighter;
+    color: white;
+    font-size: 1.5em;
+  }
+  .sign-up-btn {
+    border-color: white;
+    border-radius: 20px;
+    padding: 1vh 5vh 1vh 5vh;
+  }
+  .payroute-business {
+    background-color: blue;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    height: 30vh;
+  }
+  .section-video {
+    background-color: rgb(24, 149, 199);
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+  }
+  /* overlapping div */
+  .video_p {
+    position: absolute;
+    z-index: 1;
+  }
+  .video-section {
+    position: relative;
+  }
+  .video-para {
+    margin-top: 20vh;
+    font-family: verdana;
+    font-weight: lighter;
+    color: white;
+    font-size: 1.5em;
+  }
+  .sign-up-btn {
+    border-color: white;
+    border-radius: 20px;
+    padding: 1vh 5vh 1vh 5vh;
+  }
+  .payroute-business {
+    background-color: blue;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    height: 30vh;
+  }
+   
